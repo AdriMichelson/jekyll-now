@@ -6,7 +6,7 @@
 name: Adrienne Michelson
 
 # Short bio or description (displayed in the header)
-description: Aspirational Data Scientist and Data Engineer
+description: Data Manager & Political Analyst
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://pbs.twimg.com/profile_images/1039018272618889216/xVfkQ27C_400x400.jpg
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 80data
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
