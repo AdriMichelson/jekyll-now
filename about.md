@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Data Manager and Political Analyst with six years of professional experience. Previously, I worked with enviornmental organization and labor political action committees.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+In my spare time you will find me running, listening to a podcast, or experimenting in the kitchen. 
