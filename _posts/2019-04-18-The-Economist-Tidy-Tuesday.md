@@ -7,7 +7,7 @@ Hi everyone! Here's my first #TidyTuesday project. I spent around 2-3 hours work
 student and writer for The Economist, [revisiting bad graphs and re-doing them](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368). This is the data that was a challenge to reinterpret,
 mostly because there was a lot of categorical data that needed to share one discrete point of information. 
 
-![The Economist Comparison](https://cdn-images-1.medium.com/max/1400/1*7GJIxnYsyFSGgQV537Ittg.png "")
+![The Economist Comparison](https://cdn-images-1.medium.com/max/1400/1*7GJIxnYsyFSGgQV537Ittg.png)
 
 [Science remains male-dominated was the title of the March 11th 2017 article](https://www.economist.com/science-and-technology/2017/03/11/science-remains-male-dominated).
 So, the data itself should show us a compelling argument of male domination. Given the countries and fields, it would be helpful see how they compare. 
@@ -23,11 +23,11 @@ Everything to the left shows women leading in publishing.
 While I could probably get the size down to the size of the orignial data visualization, I have other things to work on and this works fine.
 Let me know if you have suggestions on how to improve this graph!
 
-![Plotted by Gap](https://github.com/AdriMichelson/adrimichelson.github.io/blob/master/images/Rplot01.png "")
+![Plotted by Gap](https://github.com/AdriMichelson/adrimichelson.github.io/blob/master/images/Rplot01.png)
 
 
 
-```R
+```
 #Packages
 library(tidyverse)
 library(ggthemes)
