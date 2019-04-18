@@ -23,7 +23,7 @@ Everything to the left shows women leading in publishing.
 While I could probably get the size down to the size of the orignial data visualization, I have other things to work on and this works fine.
 Let me know if you have suggestions on how to improve this graph!
 
-![](https://github.com/AdriMichelson/adrimichelson.github.io/blob/master/images/Rplot01.png)
+![Publishing Gap](https://github.com/AdriMichelson/adrimichelson.github.io/blob/master/images/Rplot01.png)
 
 
 
