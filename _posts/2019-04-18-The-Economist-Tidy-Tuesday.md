@@ -57,4 +57,4 @@ h <- h + theme(strip.background = element_blank(),
     geom_vline(xintercept=c(0), linetype="dotted")
 
 h
-...
+```
